@@ -1,0 +1,8 @@
+# UE5 無視設定
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+*.sln
